@@ -25,6 +25,8 @@ export default defineConfig({
 });
 ```
 
+If the site id isn't passed as an argument or the environment variable is not set, the script will not be added to the head.
+
 ### Options
 
 | Option | Type | Default |
