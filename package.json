@@ -29,7 +29,7 @@
     "lint": "eslint ."
   },
   "devDependencies": {
-    "@tree-company/eslint-config": "^0.4.3",
+    "@tree-company/eslint-config": "^0.5.0",
     "@types/node": "^22.14.0",
     "eslint": "^9.18.0",
     "prettier": "^3.5.3",
